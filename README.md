@@ -2,6 +2,7 @@
 
 ## Google Colab Link: https://colab.research.google.com/drive/17_zenTBH1YSmXq8rd52bCiJfD-bjQy1e?usp=sharing
 
+# Save model: https://drive.google.com/drive/folders/1fxN-cxWYg3gbViSm4HkWTvmzBQBgBIkw?usp=drive_link
 
 # GUIDE QUESTIONS (FINAL REFLECTION)
 
